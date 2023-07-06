@@ -1,0 +1,30 @@
+#input-btn{
+    background-color: greenyellow;
+    color:black;
+}
+body{
+    min-width: 400px;
+}
+
+#delete-btn{
+    background-color: rgb(201, 41, 41);
+    color:rgb(231, 231, 231);
+}
+#input-el{
+    width: 100%;
+    margin-bottom: 1%;
+    box-sizing: border-box;
+}
+#save-btn{
+    background-color: rgb(61, 113, 227);
+    color:rgb(231, 231, 231);
+}
+
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+a{
+    color: green;
+}
